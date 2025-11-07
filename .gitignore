@@ -1,0 +1,14 @@
+# Claude Code
+.claude/
+
+# Temporary files
+*.tmp
+*.bak
+nul
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
